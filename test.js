@@ -7,3 +7,8 @@ function addNumbers(a, b) {
     const result = a + b;
     console.log(result);
 }
+
+function multiplyNumbers(a, b) {
+    const result = a * b;
+    console.log(result);
+}
